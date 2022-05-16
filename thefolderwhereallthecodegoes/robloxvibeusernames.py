@@ -14,6 +14,6 @@ def RobloxName(name):
         else:
             NEWROBLOXSUPERCOOLNAME = NEWROBLOXSUPERCOOLNAME + i
     return NEWROBLOXSUPERCOOLNAME
-print(RobloxName("smilesprinkles1756"))       
+print(RobloxName("midnightgalaxymoon3"))       
         
     
